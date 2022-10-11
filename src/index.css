@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  width: 30px;
+  display: inline-block;
+}
+
+.active {
+  color: #E7E721;
+  font-weight: bold;
+}
+
+.inactive {
+  color: #fff
+}
+
+.section {
+  padding: 3rem;
+  text-align: center;
+}
+
+.title-home {
+  font-weight: bold;
+}
+
+.img-home {
+  padding-top: 2rem;
+  width: 200px;
+}
+
+.select-pkmn {
+  margin-top: 2rem;
+}
+
+.btn-detalle {
+  margin-top: 2rem;
+}
+
+.pokemon-title {
+  margin-bottom: 2rem;
+}
+
+.col img {
+  width: 50%;
+}
